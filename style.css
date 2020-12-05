@@ -1,0 +1,28 @@
+.purple_color{color:purple}
+body {font-family:sans-serif; 
+color:#777777;}
+.half-width{width:50%;
+float:left;
+}
+.imgdes{width:50%;
+padding-left:25%;}
+.box{border:1px solid red;
+border-radius:4px;
+background-color:yellow; 
+text-decoration: none;
+     }
+     h1 {font-size:2.5em ;}
+.container{
+padding-left: 5%;
+display:inline-block ;}
+. container_experience{
+padding:30px ;
+margin: 30px;
+background-color:rgb(215,305,215) ;
+border-radius:20px ;
+
+}
+. experience-item{
+padding:20px
+
+border-left:20px solid steelblur,}
